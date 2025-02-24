@@ -1,3 +1,10 @@
+<!--
+
+    “Le désir de connaître le pourquoi et le comment est appelé curiosité.”
+        Hobbes. Ce que devrait apprendre Antoine.
+
+-->
+
 # Hey, what's up ? ☕
 
 I'm a French **full-stack developer**, curious about everything and.. a **really nice** guy. 🇫🇷 🇪🇺
