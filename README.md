@@ -1,16 +1,19 @@
-## Hello world 👋
+# Hey, what's up ? ☕
 
-<!--
-**Ugravis/Ugravis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French **full-stack developer**, curious about everything and.. a **really nice** guy. 🇫🇷 🇪🇺
 
-Here are some ideas to get you started:
+Take a look at some of my websites, such as [testelections.com](https://testelections.com) and [zouzoual.fr](https://zouzoual.fr) !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... ...
--->
+> [!NOTE]
+>
+> **My favorite langages and tools**
+>
+> [![My skills](https://skillicons.dev/icons?i=git,js,nodejs,vue,express,sequelize)](https://skillicons.dev)
+> 
+> [![Softwares](https://skillicons.dev/icons?i=vscode,photoshop,illustrator,figma)](https://skillicons.dev)
+>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ulysse-pennetier-752236267/)
+[![Instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ulysse_pennetier/)
+
+*I stand with Ukraine 🇺🇦*
