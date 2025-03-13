@@ -19,6 +19,11 @@ Take a look at some of my websites, such as [testelections.com](https://testelec
 > 
 > [![Softwares](https://skillicons.dev/icons?i=vscode,photoshop,illustrator,figma)](https://skillicons.dev)
 >
+>
+> **Tools I am learning**
+>
+> [![Learning tools](https://skillicons.dev/icons?i=next,nest,spring,fastapi,react)](https://skillicons.dev)
+> 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ulysse-pennetier-752236267/)
 [![Instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ulysse_pennetier/)
