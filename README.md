@@ -7,7 +7,7 @@
 
 # Hey, what's up ? ☕
 
-I'm a French **full-stack developer**, curious about everything and.. a **really nice** guy. 🇫🇷 🇪🇺
+I am a meticulous and curious **French full-stack developer**, always eager to explore new challenges. 🇫🇷 🇪🇺
 
 Take a look at some of my websites, such as [testelections.com](https://testelections.com) and [zouzoual.fr](https://zouzoual.fr) !
 
@@ -28,4 +28,4 @@ Take a look at some of my websites, such as [testelections.com](https://testelec
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ulysse-pennetier-752236267/)
 [![Instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ulysse_pennetier/)
 
-*I stand with Ukraine 🇺🇦*
+🇺🇦
