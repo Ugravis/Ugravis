@@ -5,13 +5,9 @@
 
 -->
 
-# Hey, what's up ? ☕
+# Ulysse Pennetier
 
-<<<<<<< HEAD
-I am a meticulous and curious **French full-stack developer**, always eager to explore new challenges. 🇫🇷 🇪🇺
-=======
 French and european **full-stack developer** 🇫🇷 🇪🇺
->>>>>>> 690cce3 (style(README))
 
 🎓 [**ESPOL**, sciences politiques, *Université Catholique de Lille*](https://www.univ-reims.fr/iut-troyes/)  
 🎓 [**IUT MMI** Troyes, *Université de Reims*](https://www.univ-reims.fr/iut-troyes/)  
@@ -30,20 +26,12 @@ Take a look at some of my **websites** and **research projects**, such as [2016 
 >
 > **Tools I am learning**
 >
-<<<<<<< HEAD
-> [![Learning tools](https://skillicons.dev/icons?i=next,nest,spring,fastapi,react,go)](https://skillicons.dev)
-=======
 > [![Learning tools](https://skillicons.dev/icons?i=aftereffects,nest,spring,symfony)](https://skillicons.dev)
->>>>>>> 690cce3 (style(README))
 > 
   
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ulysse-pennetier-752236267/)
 [![Instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ulysse_pennetier/)
 
-<<<<<<< HEAD
-🇺🇦
-=======
 <sub>*Road cyclist (Cher-Aube)*</sub>
 
 <sub>*🇺🇦*</sub>  
->>>>>>> 690cce3 (style(README))
