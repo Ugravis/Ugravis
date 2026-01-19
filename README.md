@@ -9,7 +9,7 @@
 
 French and european **full-stack developer** 🇫🇷 🇪🇺
 
-🎓 [**ESPOL**, sciences politiques, *Université Catholique de Lille*]([https://www.univ-reims.fr/iut-troyes/](https://espol.school/))  
+🎓 [**ESPOL**, sciences politiques, *Université Catholique de Lille*]([https://www.univ-reims.fr/iut-troyes/](https://espol.school/)  
 🎓 [**IUT MMI** Troyes, *Université de Reims*](https://www.univ-reims.fr/iut-troyes/)  
 
 Take a look at some of my **websites** and **research projects**, such as [2016 and 2020 US presidential campaigns data analysing ↗︎](), [cockpit.io ↗︎](https://ws303d.mmi24c16.mmi-troyes.fr), [testelections.com ↗︎](https://testelections.com) and [zouzoual.fr ↗︎](https://zouzoual.fr) !
