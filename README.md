@@ -30,7 +30,6 @@ Take a look at some of my **websites** and **research projects**, such as [2016 
 > 
   
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ulysse-pennetier-752236267/)
-[![Instagram](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/ulysse_pennetier/)
 
 <sub>*Road cyclist (Cher-Aube)*</sub>
 
